@@ -7,5 +7,5 @@ if __name__ == "__main__":
           format(size,
                  "arguments" if (size) is not 1 else "argument",
                  "." if (size) is 0 else ":"))
-    for idx, arg in enumerate(userin):
-        print("{:d}: {:s}".format(idx + 1, arg))
+     for idx, arg in enumerate(userin):
+         print("{:d}: {:s}".format(idx + 1, arg))
