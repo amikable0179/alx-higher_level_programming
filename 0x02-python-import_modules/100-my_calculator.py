@@ -5,8 +5,8 @@ from sys import argv
 if __name__ == '__main':
     if argv != 4:
         print("Usage: ./100-my_calculator.py <a> <operator> <b>")
-	exit(1)
- 
+        exit(1)
+
     opr = argv[2]
     if argv[2] != '+' and argv[2] != '-' and argv[2] != '*' and argv[2] != '/':
         print("Unknown operator. Available operators: +, -, * and /")
