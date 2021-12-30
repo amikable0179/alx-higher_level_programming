@@ -1,3 +1,0 @@
-0x09-python_everthing_is_object
-ALX HIGH LEVEL PROGRAMMING 
-PYTHON LANGUAGE
